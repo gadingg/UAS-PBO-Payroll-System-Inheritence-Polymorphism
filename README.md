@@ -28,7 +28,6 @@ Tampilan screenshot :
 5) Tampilan All Part-time Employees
 
 ![Parttime](https://user-images.githubusercontent.com/40866806/147372849-d6464079-6976-4a63-b7d9-72234e36e89b.PNG)
-497d-b28b-600b6b45097d.PNG)
 
 
 6) Tampilan Total Month Salary
